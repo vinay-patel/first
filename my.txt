@@ -1,6 +1,6 @@
 this is another file
 line1: changed in master
-line2
+line2: changing
 line3
 line4
 line5
